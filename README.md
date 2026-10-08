@@ -5,13 +5,9 @@
   La Plata, Argentina 🇦🇷
 </p>
 
-<p align="center">
-  <a href="#-español">🇦🇷 Español</a> · <a href="#-english">🇬🇧 English</a>
-</p>
-
 ---
 
-## 🇦🇷 Español
+## AR Español
 
 ### Sobre mí
 
@@ -25,7 +21,7 @@ Desarrollo software combinando dos perfiles: **Ingeniería en Sistemas** (UTN FR
 
 ---
 
-## 🇬🇧 English
+## EN English
 
 ### About me
 
