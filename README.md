@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 / Hi 👋, soy / I'm Sofía Lara Goszko</h1>
+<h1 align="center">Hi 👋, I'm Sofía </h1>
 
 <p align="center">
   <b>Desarrolladora Full Stack & Blockchain · Full Stack & Blockchain Developer</b><br/>
